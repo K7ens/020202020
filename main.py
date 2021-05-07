@@ -17,4 +17,4 @@ async def on_message(message):
     if message.content.startswith('пока'):
         await message.channel.send('Ага давай!')
  
-client.run(os.environ['TOKEN'])
+client.run(ODM4MDM1NzkxNzg3MzI3NTYw.YI1Ppg.912NC9tMqgJGOYEOqTpMNUFeXUc)
